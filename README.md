@@ -6,15 +6,9 @@ Product manager who builds. I take ideas from a one-line pitch to a live product
 
 ### Highlights
 
-- Shipped 4 products end-to-end in the last year — two of them live
-- 459 GitHub contributions in the last 12 months
-- 2K followers on LinkedIn
+- Shipped 12 products end-to-end in the last year — two of them live
 
-### Experience
 
-- **Apollo28** — current
-- **Kyiv School of Economics** — 2025–2027
-- **LinkedIn Students program** — design sprint, PRD, product vision and business model · 2022–2023
 
 ### Projects
 
