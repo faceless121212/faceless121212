@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="Product · AI · Startups — From idea to launch. iladyga98@gmail.com" width="100%" />
+<img src="assets/banner.png" alt="Product · AI · Startups — From idea to launch. iladyga98@gmail.com · linkedin.com/in/illia-ladyha" width="100%" />
 
 ### Hi, I'm Illia 👋
 
@@ -25,4 +25,4 @@ Shipping AI features in TrackaAI and Sippa. Open to product and product-engineer
 
 ### Contact
 
-[iladyga98@gmail.com](mailto:iladyga98@gmail.com)
+[iladyga98@gmail.com](mailto:iladyga98@gmail.com) · [LinkedIn](https://www.linkedin.com/in/illia-ladyha/)
