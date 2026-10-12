@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+<rect x="0.5" y="0.5" width="1199" height="189" rx="16" fill="#0d1117" stroke="#30363d"/>
+<g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+<line x1="80.0" y1="70" x2="316.0" y2="70" stroke="#30363d" stroke-width="2"/>
+<circle cx="64.0" cy="70" r="9" fill="#0d1117" stroke="#a3e635" stroke-width="3"/>
+<text x="55.0" y="118" text-anchor="start" font-size="13" font-weight="600" letter-spacing="2" fill="#7d8590">01</text>
+<text x="55.0" y="146" text-anchor="start" font-size="22" font-weight="700" fill="#f0f6fc">Discover</text>
+<text x="55.0" y="170" text-anchor="start" font-size="15" fill="#8b949e">talk to users</text>
+<line x1="348.0" y1="70" x2="584.0" y2="70" stroke="#30363d" stroke-width="2"/>
+<circle cx="332.0" cy="70" r="9" fill="#0d1117" stroke="#a3e635" stroke-width="3"/>
+<text x="332.0" y="118" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="2" fill="#7d8590">02</text>
+<text x="332.0" y="146" text-anchor="middle" font-size="22" font-weight="700" fill="#f0f6fc">Spec</text>
+<text x="332.0" y="170" text-anchor="middle" font-size="15" fill="#8b949e">one-page PRD</text>
+<line x1="616.0" y1="70" x2="852.0" y2="70" stroke="#30363d" stroke-width="2"/>
+<circle cx="600.0" cy="70" r="9" fill="#0d1117" stroke="#a3e635" stroke-width="3"/>
+<text x="600.0" y="118" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="2" fill="#7d8590">03</text>
+<text x="600.0" y="146" text-anchor="middle" font-size="22" font-weight="700" fill="#f0f6fc">Prototype</text>
+<text x="600.0" y="170" text-anchor="middle" font-size="15" fill="#8b949e">AI-assisted MVP</text>
+<line x1="884.0" y1="70" x2="1120.0" y2="70" stroke="#30363d" stroke-width="2"/>
+<circle cx="868.0" cy="70" r="9" fill="#0d1117" stroke="#a3e635" stroke-width="3"/>
+<text x="868.0" y="118" text-anchor="middle" font-size="13" font-weight="600" letter-spacing="2" fill="#7d8590">04</text>
+<text x="868.0" y="146" text-anchor="middle" font-size="22" font-weight="700" fill="#f0f6fc">Ship</text>
+<text x="868.0" y="170" text-anchor="middle" font-size="15" fill="#8b949e">live in days</text>
+<circle cx="1136.0" cy="70" r="9" fill="#a3e635" stroke="#a3e635" stroke-width="3"/>
+<text x="1145.0" y="118" text-anchor="end" font-size="13" font-weight="600" letter-spacing="2" fill="#7d8590">05</text>
+<text x="1145.0" y="146" text-anchor="end" font-size="22" font-weight="700" fill="#f0f6fc">Measure</text>
+<text x="1145.0" y="170" text-anchor="end" font-size="15" fill="#8b949e">metrics, repeat</text>
+</g>
+</svg>
