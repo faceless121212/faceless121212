@@ -7,7 +7,7 @@
 <a href="mailto:iladyga98@gmail.com"><img src="https://img.shields.io/badge/Email-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-## 👋 Hi, I'm Ilia
+## 👋 Hi, I'm Illia
 
 I'm a **product manager who builds**. I take an idea from a one-line pitch to a deployed product — spec, design, code and launch — usually with AI as part of the team.
 
