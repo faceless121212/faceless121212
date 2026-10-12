@@ -55,6 +55,11 @@ My posts and updates → [LinkedIn](https://www.linkedin.com/in/illia-ladyha/rec
 ### Latest activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#16](https://github.com/faceless121212/TrackaAI/pull/16) in [faceless121212/TrackaAI](https://github.com/faceless121212/TrackaAI)
+2. 💪 Opened PR [#19](https://github.com/faceless121212/TrackaAI/pull/19) in [faceless121212/TrackaAI](https://github.com/faceless121212/TrackaAI)
+3. 🎉 Merged PR [#18](https://github.com/faceless121212/TrackaAI/pull/18) in [faceless121212/TrackaAI](https://github.com/faceless121212/TrackaAI)
+4. 💪 Opened PR [#18](https://github.com/faceless121212/TrackaAI/pull/18) in [faceless121212/TrackaAI](https://github.com/faceless121212/TrackaAI)
+5. 🎉 Merged PR [#17](https://github.com/faceless121212/TrackaAI/pull/17) in [faceless121212/TrackaAI](https://github.com/faceless121212/TrackaAI)
 <!--END_SECTION:activity-->
 
 ### Contact
