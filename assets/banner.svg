@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <rect x="0.5" y="0.5" width="1199" height="259" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <!-- single accent: a quiet growth line -->
+  <path d="M820 200 C900 196 950 170 990 135 C1030 100 1070 78 1120 70" fill="none" stroke="#a3e635" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <circle cx="1120" cy="70" r="6" fill="#a3e635"/>
+  <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="64" y="84" font-size="15" font-weight="600" letter-spacing="3" fill="#7d8590">PRODUCT · AI · STARTUPS</text>
+    <text x="64" y="146" font-family="Inter Display, Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#f0f6fc">From idea to launch<tspan fill="#a3e635">.</tspan></text>
+    <text x="64" y="200" font-size="19" font-weight="500" fill="#c9d1d9">iladyga98@gmail.com</text>
+  </g>
+</svg>
