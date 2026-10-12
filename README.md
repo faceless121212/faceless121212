@@ -19,11 +19,6 @@ Product manager who builds. I take ideas from a one-line pitch to a live product
 <img src="https://img.shields.io/badge/LinkedIn_followers-2K-a3e635?style=for-the-badge&labelColor=161b22" alt="2K LinkedIn followers" />
 </p>
 
-### Experience
-
-- **Apollo28** — current
-- **Kyiv School of Economics** — 2025–2027
-- **LinkedIn Students program** — design sprint, PRD, product vision and business model · 2022–2023
 
 ### Projects
 
