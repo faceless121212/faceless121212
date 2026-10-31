@@ -67,11 +67,11 @@ Shipping AI features in TrackaAI and Sippa. Open to product and product-engineer
 #### Latest
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/faceless121212/TrackaAI/pull/16) in [faceless121212/TrackaAI](https://github.com/faceless121212/TrackaAI)
-2. 💪 Opened PR [#19](https://github.com/faceless121212/TrackaAI/pull/19) in [faceless121212/TrackaAI](https://github.com/faceless121212/TrackaAI)
-3. 🎉 Merged PR [#18](https://github.com/faceless121212/TrackaAI/pull/18) in [faceless121212/TrackaAI](https://github.com/faceless121212/TrackaAI)
-4. 💪 Opened PR [#18](https://github.com/faceless121212/TrackaAI/pull/18) in [faceless121212/TrackaAI](https://github.com/faceless121212/TrackaAI)
-5. 🎉 Merged PR [#17](https://github.com/faceless121212/TrackaAI/pull/17) in [faceless121212/TrackaAI](https://github.com/faceless121212/TrackaAI)
+1. 💪 Opened PR [#2](https://github.com/faceless121212/AI_native/pull/2) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
+2. 💪 Opened PR [#1](https://github.com/faceless121212/AI_native/pull/1) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
+3. 🎉 Merged PR [#16](https://github.com/faceless121212/TrackaAI/pull/16) in [faceless121212/TrackaAI](https://github.com/faceless121212/TrackaAI)
+4. 💪 Opened PR [#19](https://github.com/faceless121212/TrackaAI/pull/19) in [faceless121212/TrackaAI](https://github.com/faceless121212/TrackaAI)
+5. 🎉 Merged PR [#18](https://github.com/faceless121212/TrackaAI/pull/18) in [faceless121212/TrackaAI](https://github.com/faceless121212/TrackaAI)
 <!--END_SECTION:activity-->
 
 ### Writing
