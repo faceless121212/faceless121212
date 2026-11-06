@@ -67,11 +67,11 @@ Shipping AI features in TrackaAI and Sippa. Open to product and product-engineer
 #### Latest
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/faceless121212/AI_native/pull/5) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
-2. 💪 Opened PR [#4](https://github.com/faceless121212/AI_native/pull/4) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
-3. 💪 Opened PR [#3](https://github.com/faceless121212/AI_native/pull/3) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
-4. 💪 Opened PR [#2](https://github.com/faceless121212/AI_native/pull/2) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
-5. 💪 Opened PR [#1](https://github.com/faceless121212/AI_native/pull/1) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
+1. 💪 Opened PR [#6](https://github.com/faceless121212/AI_native/pull/6) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
+2. 💪 Opened PR [#5](https://github.com/faceless121212/AI_native/pull/5) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
+3. 💪 Opened PR [#4](https://github.com/faceless121212/AI_native/pull/4) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
+4. 💪 Opened PR [#3](https://github.com/faceless121212/AI_native/pull/3) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
+5. 💪 Opened PR [#2](https://github.com/faceless121212/AI_native/pull/2) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
 <!--END_SECTION:activity-->
 
 ### Writing
