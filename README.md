@@ -67,11 +67,11 @@ Shipping AI features in TrackaAI and Sippa. Open to product and product-engineer
 #### Latest
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/faceless121212/AI_native/pull/6) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
-2. 💪 Opened PR [#5](https://github.com/faceless121212/AI_native/pull/5) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
-3. 💪 Opened PR [#4](https://github.com/faceless121212/AI_native/pull/4) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
-4. 💪 Opened PR [#3](https://github.com/faceless121212/AI_native/pull/3) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
-5. 💪 Opened PR [#2](https://github.com/faceless121212/AI_native/pull/2) in [faceless121212/AI_native](https://github.com/faceless121212/AI_native)
+1. 💪 Opened PR [#9](https://github.com/faceless121212/Claude_hackaton/pull/9) in [faceless121212/Claude_hackaton](https://github.com/faceless121212/Claude_hackaton)
+2. 🎉 Merged PR [#8](https://github.com/faceless121212/Claude_hackaton/pull/8) in [faceless121212/Claude_hackaton](https://github.com/faceless121212/Claude_hackaton)
+3. 🎉 Merged PR [#6](https://github.com/faceless121212/Claude_hackaton/pull/6) in [faceless121212/Claude_hackaton](https://github.com/faceless121212/Claude_hackaton)
+4. 🎉 Merged PR [#3](https://github.com/faceless121212/Claude_hackaton/pull/3) in [faceless121212/Claude_hackaton](https://github.com/faceless121212/Claude_hackaton)
+5. 💪 Opened PR [#8](https://github.com/faceless121212/Claude_hackaton/pull/8) in [faceless121212/Claude_hackaton](https://github.com/faceless121212/Claude_hackaton)
 <!--END_SECTION:activity-->
 
 ### Writing
